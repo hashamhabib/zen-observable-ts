@@ -2,7 +2,7 @@
   "name": "zen-observable-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
+  "main": "./lib/bundle.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
