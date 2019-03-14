@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/hashamhabib/zen-observable-ts.git"
   },
+  "dependencies": {
+    "zen-observable": "^0.8.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
